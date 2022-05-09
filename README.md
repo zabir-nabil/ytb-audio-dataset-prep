@@ -24,3 +24,6 @@ sleep 2
 ```
 
 `parallel --jobs 6 < tasks`
+
+**VAD**
+[colab notebook](https://colab.research.google.com/drive/1GAXo4CPB6DJUbIbuUVwNm9f5BQqs5GeB?usp=sharing)
