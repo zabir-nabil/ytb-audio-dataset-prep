@@ -7,11 +7,15 @@ echo 'hi' & echo 'hello' & sleep 2
 ```
 
 *running tasks with gnu parallel [linux]*
+
 **installation**
+
 ```console
+sudo apt install ffmpeg
 sudo apt install moreutils
 sudo apt install parallel
 ```
+
 `tasks`
 ```
 echo 'hi'
